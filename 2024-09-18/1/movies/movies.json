@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Shawshank Redemption",
+    "genres": "Drama",
+    "year": 1994
+  },
+  {
+    "title": "The Godfather",
+    "genres": "Crime|Drama",
+    "year": 1972
+  },
+  {
+    "title": "The Dark Knight",
+    "genres": "Action|Crime|Drama",
+    "year": 2008
+  },
+  {
+    "title": "Forrest Gump",
+    "genres": "Comedy|Drama|Romance",
+    "year": 1994
+  },
+  {
+    "title": "Inception",
+    "genres": "Action|Sci-Fi|Thriller",
+    "year": 2010
+  },
+  {
+    "title": "La La Land",
+    "genres": "Comedy|Drama|Romance",
+    "year": 2016
+  }
+]

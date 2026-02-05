@@ -1,0 +1,2 @@
+Student [index=11120/18, firstName=Grujica, lastName=Vasic, subjects={Mrezno i distrinuirano programiranje=9}]|Mrezno i distrinuirano programiranje|9
+Student [index=11131/19, firstName=Pero, lastName=Peric, subjects={Mrezno i distribuirano programiranje=7}]|Mrezno i distribuirano programiranje|7
